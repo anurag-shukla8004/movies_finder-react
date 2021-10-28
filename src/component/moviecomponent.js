@@ -58,7 +58,7 @@ const Moviecomponent = (props) => {
         </MovieContainer>
 
         <MovieContainer
-          style={{ alignItems: "flex-start" }}
+          style={{ alignItems: "flex-start", overflow: "scroll" }}
           className="flip-card-back"
           // onClick={() => {
           //   props.onMovieSelect(imdbID);
