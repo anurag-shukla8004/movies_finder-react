@@ -123,7 +123,7 @@ function App() {
           />
         </SearchBox>
       </Head>
-      <MovieListContainer>
+      <MovieListContainer className="ijZktC ">
         {MovieList?.length ? (
           MovieList.map((movie, index) => (
             <MovieComponent key={index} movie={movie} />
