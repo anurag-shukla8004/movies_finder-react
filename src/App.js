@@ -112,7 +112,7 @@ function App() {
       <Head className="searchbox">
         <Appname>
           <MovieImg src="https://yt3.ggpht.com/COFiJwgK2ytUmR0beZj7W8JuSPIMh13MtsEdaA8rHeJPqihHtFDy2_N_wFWXdTY8FAJaoGtoKQ=s900-c-k-c0x00ffffff-no-rj" />
-          M<div style={{ color: "red" }}>8</div>flix
+          <div style={{ color: "red" }}>Net</div>flix
         </Appname>
         <SearchBox className="searchBox">
           <SearchImg src="https://www.pngitem.com/pimgs/m/559-5590045_search-magnifier-search-icon-no-background-hd-png.png" />
